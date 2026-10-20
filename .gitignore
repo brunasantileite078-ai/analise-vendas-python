@@ -1,0 +1,19 @@
+# Base de dados original e arquivos processados
+data/raw/
+data/processed/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Configurações locais e arquivos do sistema
+.env
+.DS_Store
+Thumbs.db
